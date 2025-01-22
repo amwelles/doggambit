@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 ---
 
-# About this site
+# About Autumn
 
 I’ve been working with dogs as a hobby for over 20 years. I grew up training my
 first dog in both obedience and agility, and I currently have three rescue dogs
@@ -19,3 +19,7 @@ brushing, nail trimming, and ear cleaning, so please let me know if you’d like
 of those things done during my visit. I am comfortable using flat collars, head collars,
 martingale collars, or harnesses (no-pull or otherwise), but I will not use prong
 or shock collars.
+
+I love training and playing with dogs. I also love long walks around the neighborhood
+or in nature. I’m happy to play tug, fetch, or whatever other games your dog enjoys.
+I’m used to high drive dogs, but I’m just as happy watching a couch puptato.

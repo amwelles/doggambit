@@ -214,6 +214,18 @@ ul {
 ul.no-bullet {
   list-style-type: none;
 }
+table {
+  text-align: center;
+}
+thead {
+  color: var(--color-primary);
+}
+th, td {
+  padding: 0.25em;
+  &:first-child {
+    text-align: left;
+  }
+}
 
 /* Link styles */
 a:not(.btn--remix):link,
