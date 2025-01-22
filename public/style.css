@@ -17,7 +17,8 @@ to this section's matching END comment to see page-specific styles.
   --color-text-main: #fff;
   --color-text-header: var(--yellow);
   --color-primary: var(--blue);
-  --wrapper-height: 85vh;
+  --wrapper-height: unset;
+  --wrapper-width: 750px;
   --image-max-width: 320px;
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
@@ -74,42 +75,38 @@ to this section's matching END comment to see page-specific styles.
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 1rem auto 0;
+  margin: 3rem auto 0;
   padding: 1rem 0 0.75rem 0;
-  width: 100%;
+  max-width: var(--wrapper-width);
   flex-wrap: wrap;
   border-top: 1px solid var(--color-text-header);
 }
 
-.footer a:not(.btn--remix):link,
-a:not(.btn--remix):visited {
-  font-family: HK Grotesk, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 1.1rem;
-  color: var(--color-text-main);
-  text-decoration: none;
-  border-style: none;
-}
-.footer a:hover {
-  color: var(--color-text-header);
-}
-
 .footer .links {
-  padding: 0.5rem 1rem 1.5rem;
   white-space: nowrap;
 }
 
 .divider {
-  padding: 0 1rem;
+  padding-inline: 0.5rem;
 }
 /******************************************************************************
 END Glitch hello-app default styles
 ******************************************************************************/
 
-@keyframes color-animate {
+@keyframes link-animate {
   0% {
-    
+    text-decoration-color: var(--orange);
+  }
+  50% {
+    text-decoration-color: var(--yellow);
+  }
+  100% {
+    text-decoration-color: var(--orange);
+  }
+}
+
+@keyframes collar-animate {
+  0% {
     color: var(--orange);
   }
   25% {
@@ -138,9 +135,9 @@ body {
   margin: 3rem 2rem 0;
 }
 .header,
-.content {
-  max-width: 900px;
-  margin: 0 auto;
+.wrapper {
+  max-width: var(--wrapper-width);
+  margin-inline: auto;
 }
 .header {
   margin-top: 3em;
@@ -150,7 +147,13 @@ body {
     height: auto;
   }
   & .collar {
-    animation: color-animate 6s infinite;
+    color: var(--orange);
+  }
+  & a:hover,
+  & a:focus {
+    .collar {
+      animation: collar-animate 4s infinite;
+    }
   }
 }
 .content {
@@ -178,12 +181,12 @@ h5 {
 h1 {
   margin-top: 1rem;
   margin-bottom: 1.75rem;
-  font-size: 5rem;
+  font-size: 4rem;
   display: inline-flex;
   color: var(--color-text-header);
 }
 h2 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 h3 {
   font-size: 2rem;
@@ -219,13 +222,12 @@ a:not(.btn--remix):visited {
   text-decoration-color: var(--color-primary);
   text-decoration-thickness: 2px;
   text-underline-offset: .1em;
-/*   border-bottom: 1px solid var(--color-primary); */
   color: var(--color-text-main);
   transition: color 0.2s linear;
 }
 a:not(.btn--remix):link:hover,
 a:not(.btn--remix):visited:hover {
-  color: var(--color-primary);
+  animation: link-animate 1s infinite;
 }
 
 /* Title style adjustments */

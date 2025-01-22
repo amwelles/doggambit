@@ -4,10 +4,18 @@ layout: layouts/page.njk
 
 # About this site
 
-Here you can write some details about you and your new blog: 
+I’ve been working with dogs as a hobby for over 20 years. I grew up training my
+first dog in both obedience and agility, and I currently have three rescue dogs
+of my own. I love dogs, cats, and critters of all kinds! Wondering about the name?
+Gambit was one of my former dogs who has since crossed the rainbow bridge. Whenever
+she was being naughty, I would jokingly say “dog Gambit!” to her.
 
-- 🎉 I love blogging
-- 💥 I built this site using [Eleventy](https://www.11ty.dev/) on [Glitch](https://glitch.com/)
-- 🌈 Thanks for reading!
+I am happy to provide your dog with a safe environment in your own home. I’m an
+expert at keeping dogs from bolting out the door, and my years of dog training
+experience help me to understand your pets’ needs.
 
-You can also make your project available for other people to remix in Glitch! 🎏✨
+I’m well-versed in giving topical and oral medications and basic grooming such as
+brushing, nail trimming, and ear cleaning, so please let me know if you’d like any
+of those things done during my visit. I am comfortable using flat collars, head collars,
+martingale collars, or harnesses (no-pull or otherwise), but I will not use prong
+or shock collars.
