@@ -107,6 +107,25 @@ a:not(.btn--remix):visited {
 END Glitch hello-app default styles
 ******************************************************************************/
 
+@keyframes color-animate {
+  0% {
+    
+    color: var(--orange);
+  }
+  25% {
+    color: var(--blue);
+  }
+  50% {
+    color: var(--yellow);
+  }
+  75% {
+    color: var(--blue);
+  }
+  100% {
+    color: var(--orange);
+  }
+}
+
 /* Page structure */
 body {
   font-family: var(--font-family);
@@ -125,6 +144,14 @@ body {
 }
 .header {
   margin-top: 3em;
+  & svg {
+    display: block;
+    max-width: 150px;
+    height: auto;
+  }
+  & .collar {
+    animation: color-animate 6s infinite;
+  }
 }
 .content {
   display: flex;
