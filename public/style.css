@@ -223,6 +223,10 @@ small,
 .text_small {
   font-size: 0.8rem;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 ul > li,
 ol > li {
   margin-bottom: 0.75rem;
@@ -250,7 +254,6 @@ th, td {
     padding-left: 0;
   }
 }
-
 @media (max-width: 500px) {
   table {
     font-size: 0.8rem;

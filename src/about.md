@@ -4,6 +4,8 @@ layout: layouts/page.njk
 
 # About Autumn
 
+![Autumn and her three dogs: Australian Shepherd, Chihuahua mix, and Border Collie](https://cdn.glitch.global/77d62c07-a509-4369-a5e9-59c1bcadc8ed/autumn-and-dogs.jpg?v=1737643944977)
+
 I’ve been working with dogs as a hobby for over 20 years. I grew up training my first dog in both obedience and agility, and I currently have three rescue dogs of my own. I love dogs, cats, and critters of all kinds! Wondering about the name? Gambit was one of my former dogs who has since crossed the rainbow bridge. Whenever she was being naughty, I would jokingly say “dog Gambit!” to her. 
 
 I am happy to provide your dog with a safe environment in your own home. I’m an expert at keeping dogs from bolting out the door, and my years of dog training experience help me to understand your pets’ needs.

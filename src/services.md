@@ -6,7 +6,7 @@ layout: layouts/page.njk
 
 ## Pet Sitting
 
-I stay in your home overnight. I'm happy to take care of small house chores—such as taking out the trash and bringing in the mail—while you are away.
+I stay in your home overnight. I'm happy to take care of small house chores—such as taking out the trash and bringing in the mail—while you are away. If your pet cannot be left alone for at least four hours, you will get the constant care rate. Half-day discounts are available.
 
 ## Drop-in or Walk
 
@@ -25,7 +25,3 @@ I'll stop in, check on your pets, walk them, let them out, feed them a meal, or 
 | ------------ | ----------- | ---- | ---- |
 | Pet Sitting  | N/A         | $35  | $5   |
 | Drop-in/Walk | $15         | $15  | $5   |
-
-### Constant care
-
-This price is for pets that cannot be left alone for at least 4 hours at a time.
