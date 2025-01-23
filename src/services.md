@@ -6,13 +6,11 @@ layout: layouts/page.njk
 
 ## Pet Sitting
 
-I stay in your home overnight. I'm happy to take care of small house chores—such as taking
-out the trash and bringing in the mail—while you are away.
+I stay in your home overnight. I'm happy to take care of small house chores—such as taking out the trash and bringing in the mail—while you are away.
 
 ## Drop-in or Walk
 
-I'll stop in, check on your pets, walk them, let them out, feed them a meal, or whatever else
-you'd like for 30 minutes.
+I'll stop in, check on your pets, walk them, let them out, feed them a meal, or whatever else you'd like for 30 minutes.
 
 ## Rates
 

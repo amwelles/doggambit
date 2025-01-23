@@ -74,17 +74,18 @@ to this section's matching END comment to see page-specific styles.
 
 /* Navigation grid */
 .footer {
-  display: flex;
-  justify-content: space-between;
   margin: 3rem auto 0;
   padding: 1rem 0 0.75rem 0;
+  width: 100%;
   max-width: var(--wrapper-width);
-  flex-wrap: wrap;
   border-top: 1px solid var(--color-text-header);
 }
 
 .footer .links {
+  display: flex;
+  flex-wrap: wrap;
   white-space: nowrap;
+  gap: 0.75rem 1rem;
 }
 
 .divider {
@@ -129,6 +130,7 @@ body {
   font-family: var(--font-family);
   background-color: var(--color-bg);
   color: var(--color-text-main);
+  margin: 3rem;
 }
 .wrapper {
   min-height: var(--wrapper-height);
@@ -141,7 +143,6 @@ body {
   margin-inline: auto;
 }
 .header {
-  margin-top: 3em;
   & svg {
     display: block;
     max-width: 150px;
