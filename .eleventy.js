@@ -39,7 +39,8 @@ module.exports = function(eleventyConfig) {
 
   // Filters let you modify the content https://www.11ty.dev/docs/filters/
   eleventyConfig.addFilter("htmlDateString", dateObj => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+    // return DateTime.fromJSDate(dateObj, {}).setZone("America/New_York").toLocaleString(dateObj.DATE_FULL);
+    return DateTime.fromJSDate().toLocaleString();
   });
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
