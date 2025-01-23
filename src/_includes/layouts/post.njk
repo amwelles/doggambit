@@ -8,9 +8,11 @@ templateClass: tmpl-home
 <div class="wrapper post">
   <div>
     {# The post front matter includes the title property #}
-    <h1 class='postTitle'>{{title}}</h1>
+    <h1>{{title}}</h1>
 
-    {# ADD P ELEMENT FROM TODO ON THE NEXT LINE #}
+    <p>
+      <em>{{ page.date | date("YYYY") }}</em>
+    </p>
     
     {# Content from the body of the post markdown appears here #}
     {{ content | safe }}
