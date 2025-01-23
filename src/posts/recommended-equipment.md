@@ -1,5 +1,5 @@
 ---
-title: Recommended equpiment for dogs
+title: Recommended equipiment for dogs
 tags:
   - posts
 layout: layouts/post.njk
