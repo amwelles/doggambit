@@ -9,13 +9,14 @@ templateClass: tmpl-home
   <div>
     {# The post front matter includes the title property #}
     <h1>{{title}}</h1>
-
-    <p>
-      {{ page.date | htmlDateString }}
-    </p>
     
     {# Content from the body of the post markdown appears here #}
     {{ content | safe }}
+
+    <p>
+      <small>Published {{ page.date | htmlDateString }}</small>
+    </p>
+    
     <div class="controls">
     {# The previous and next post data is added in .eleventy.js #}
     {% if prevPost.url %}
