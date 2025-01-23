@@ -17,6 +17,7 @@ to this section's matching END comment to see page-specific styles.
   --color-text-main: #fff;
   --color-text-header: var(--yellow);
   --color-primary: var(--blue);
+  --color-secondary: var(--orange);
   --wrapper-height: unset;
   --wrapper-width: 750px;
   --image-max-width: 320px;
@@ -187,6 +188,7 @@ h1 {
 }
 h2 {
   font-size: 3rem;
+  color: var(--color-secondary);
 }
 h3 {
   font-size: 2rem;
@@ -224,6 +226,7 @@ th, td {
   padding: 0.25em;
   &:first-child {
     text-align: left;
+    padding-left: 0;
   }
 }
 
