@@ -14,9 +14,18 @@ I'll stop in, check on your pets, walk them, let them out, feed them a meal, or 
 
 ## Rates
 
-|Service|First Pet|Holiday|Puppy|Additional Dog|Additional Cat|
-|-|-|-|-|-|-|
-|Pet Sitting|$70|$85|$120|$35|$5|
-|Drop-in/Walk|$35*|$45|$45|$15|$5|
+| Service      | First Pet | Holiday | Puppy | Constant Care |
+| ------------ | --------- | ------- | ----- | ------------- |
+| Pet Sitting  | $70       | $85     | $120  | $200          |
+| Drop-in/Walk | $35       | $45     | $45   | N/A           |
 
-\* Add $15 for an extra 30 minutes.
+### Add-ons
+
+| Service      | +30 minutes | +Dog | +Cat |
+| ------------ | ----------- | ---- | ---- |
+| Pet Sitting  | N/A         | $35  | $5   |
+| Drop-in/Walk | $15         | $15  | $5   |
+
+### Constant care
+
+This price is for pets that cannot be left alone for at least 4 hours at a time.
