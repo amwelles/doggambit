@@ -162,6 +162,11 @@ body {
   display: flex;
   flex-direction: column;
 }
+@media (max-width: 500px) {
+  .wrapper {
+    margin-top: 1rem;
+  }
+}
 
 /* Typography */
 p {
@@ -174,7 +179,7 @@ h2,
 h3,
 h4,
 h5 {
-  margin: 2rem 0 .8rem;
+  margin: 1rem 0 .8rem;
   font-family: var(--font-family-header);
   font-weight: 600;
   line-height: 1.1;
@@ -199,6 +204,20 @@ h4 {
 }
 h5 {
   font-size: 1.25rem;
+}
+@media (max-width: 500px) {
+  html {
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+  }
 }
 small,
 .text_small {
@@ -233,7 +252,7 @@ th, td {
 
 @media (max-width: 500px) {
   table {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
   th, td {
     padding: 0.15rem;
