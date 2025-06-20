@@ -33,7 +33,7 @@ module.exports = function(eleventyConfig) {
   */
   const seo = require("./src/seo.json");
   if (seo.url === "glitch-default") {
-    seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
+    seo.url = `https://www.doggambit.com`;
   }
   eleventyConfig.addPlugin(pluginSEO, seo);
 
