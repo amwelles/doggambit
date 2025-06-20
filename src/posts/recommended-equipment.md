@@ -3,6 +3,7 @@ title: Recommended equipiment for dogs
 tags:
   - posts
 layout: layouts/post.njk
+date: git Created
 ---
 
 ## Microchip
