@@ -25,3 +25,7 @@ I'll stop in, check on your pets, walk them, let them out, feed them a meal, or 
 | ------------ | ----------- | ---- | ---- |
 | Drop-in/Walk | $15         | $15  | $5   |
 | Pet Sitting  | N/A         | $35  | $5   |
+
+## Refund Policy
+
+100% refund if you cancel within 7 days of start date. 50% refund up to the start date.
