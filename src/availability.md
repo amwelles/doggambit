@@ -7,9 +7,7 @@ layout: layouts/page.njk
 I am unavailable the following dates:
 
 * July 28, 2025
-* August 2, 2025
-* August 4-14, 2025
-* August 29-31, 2025
+* August 2-31, 2025
 * September 4-6, 2025
 * September 12-14, 2025
 * September 19-21, 2025
