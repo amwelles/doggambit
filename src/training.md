@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 ---
 
-# Dog Training
+# Dog training
 
 > The AKC [Canine Good Citizen](https://www.akc.org/products-services/training-programs/canine-good-citizen/)™ (CGC) program provides a perfect framework for training your dog to become a polite member of society.
 

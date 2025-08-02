@@ -4,16 +4,10 @@ layout: layouts/page.njk
 
 # Availability
 
-I am unavailable the following dates:
+Calendar below is for pet sitting specifically. I'm usually available for 1-2 additional walks per day on days I am booked for pet sitting. Unavailable dates mean I am either out of town or have something else going on.
 
-* July 28, 2025
-* August 2-31, 2025
-* September 4-6, 2025
-* September 12-14, 2025
-* September 19-21, 2025
-* September 26-28, 2025
-* October 31 - November 2, 2025
-* November 21-23, 2025
-* December 22, 2025 - January 2, 2026
-
-<small>Last updated July 24, 2025</small>
+<script src="https://www.bookingmood.com/js/resize.js"></script>
+<iframe
+  src="https://www.bookingmood.com/embed/55a61f53-8fbc-4ada-8807-d47b975bea33?"
+  style="width:100%;border:none"
+></iframe>
