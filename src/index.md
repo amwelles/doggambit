@@ -6,6 +6,7 @@ layout: layouts/page.njk
 
 * Insurance through [Business Insurers of the Carolinas](https://www.business-insurers.com).
 * Member of [Pet Sitters International](https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc).
+* Completed the [American Red Cross Cat and Dog First Aid course](https://www.redcross.org/take-a-class/qrcode?certnumber=0217BGO).
 
 ## About Autumn
 
