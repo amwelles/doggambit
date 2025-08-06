@@ -21,3 +21,8 @@ I’m well-versed in giving topical and oral medications and basic grooming such
 I love training and playing with dogs. I also love long walks around the neighborhood or in nature. I’m happy to play tug, fetch, or whatever other games your dog enjoys. I’m used to high drive dogs, but I’m just as happy watching a couch puptato.
 
 Ready to chat? [Fill out an interest form](https://form.jotform.com/doggambit/pet-care-inquiry) or [shoot me an email](mailto:autumn@doggambit.com&subject=Pet%20sitting%20inquiry).
+
+<div class="logos">
+  <a href="https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc"><img src="/public/psi-member.jpg"></a>
+  <a href="https://iaabc.org/en/supporting-membership"><img src="/public/iaabc-supporting.png"></a>
+</div>
