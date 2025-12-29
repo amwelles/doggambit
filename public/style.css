@@ -299,3 +299,15 @@ a:visited:hover {
 .controls {
   margin: 3rem 0 2rem;
 }
+
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  & img {
+    height: 130px;
+    width: auto;
+    background: white;
+    padding: 1rem;
+  }
+}
