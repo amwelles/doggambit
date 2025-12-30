@@ -2,5 +2,5 @@
   "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
   "title": "Dog Gambit!",
   "description": "Dog walking & pet sitting in Raleigh, NC",
-  "url": "glitch-default"
+  "url": "https://www.doggambit.com"
 }
