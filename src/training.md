@@ -28,7 +28,7 @@ Learn basic skills needed to start your agility journey, such as different cross
 
 ## Qualifications
 
-* Working toward [IAABC Accredited Dog Trainer](https://iaabc.org/en/accredited-credentials) credential
+* Working toward [VSA-CDT](https://www.vsdogtrainingacademy.com/become-dog-trainer/dog-trainer-certification/) credential
 * Titled dogs in agility and rally obedience
 * 2025-present: Volunteer for SPCA of Wake County
 * 2023-present: Volunteer and foster for Carolina Border Collie Rescue
