@@ -1,8 +1,9 @@
 ---
 layout: layouts/page.njk
+title: Dog training, dog walking & pet sitting in Raleigh, NC
 ---
 
-# Dog walking & pet sitting in Raleigh, NC
+# Dog training, dog walking & pet sitting in Raleigh, NC
 
 * [Certified Professional Pet Sitter](https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc).
 * Insurance through [Business Insurers of the Carolinas](https://www.business-insurers.com).
