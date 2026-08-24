@@ -4,5 +4,5 @@ title: Availability
 ---
 
 <script>
-  window.location.replace("https://app.scritches.io/book/doggambit");
+  window.location.replace("https://book.doggambit.com");
 </script>

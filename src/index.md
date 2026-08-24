@@ -8,6 +8,7 @@ title: Dog training, dog walking & pet sitting in Raleigh, NC
 * [Certified Professional Pet Sitter](https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc).
 * Insurance through [Business Insurers of the Carolinas](https://www.business-insurers.com).
 * Member of [Pet Sitters International](https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc).
+* Completed [Pet Safety Crusader Pet First-Aid and CPR Training](https://www.petsafetycrusader.com) with LuvYourPet.
 * Completed the [American Red Cross Cat and Dog First Aid course](https://www.redcross.org/take-a-class/qrcode?certnumber=0217BGO).
 * Volunteer with [SPCA of Wake County](https://spcawake.org).
 
@@ -23,11 +24,12 @@ I’m well-versed in giving topical and oral medications and basic grooming such
 
 I love training and playing with dogs. I also love long walks around the neighborhood or in nature. I’m happy to play tug, fetch, or whatever other games your dog enjoys. I’m used to high drive dogs, but I’m just as happy watching a couch puptato.
 
-Ready to get started? [Book online](https://app.scritches.io/book/doggambit) or [shoot me an email](mailto:autumn@doggambit.com&subject=Pet%20sitting%20inquiry).
+Ready to get started? [Book online](https://book.doggambit.com) or [shoot me an email](mailto:autumn@doggambit.com&subject=Pet%20sitting%20inquiry).
 
 <div class="logos">
   <a href="https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc" target="_blank"><img src="/public/cpps.webp"></a>
   <a href="https://www.petsit.com/pet-sitter-raleigh-nc-dog-gambit-llc" target="_blank"><img src="/public/psi-member.webp"></a>
   <a href="https://iaabc.org/en/supporting-membership" target="_blank"><img src="/public/iaabc-supporting.webp"></a>
   <a href="https://www.shockfree.org" target="_blank"><img src="/public/shock-free.webp"></a>
+  <a href="https://fearfreeshelters.com" target="_blank"><img src="/public/ff-shelter-graduate.png"></a>
 </div>

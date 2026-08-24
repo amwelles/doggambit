@@ -305,9 +305,9 @@ a:visited:hover {
   flex-wrap: wrap;
   gap: .5rem;
   & img {
-    height: 100px;
+    height: 80px;
     width: auto;
     background: white;
-    padding: 1rem;
+    padding: .5rem;
   }
 }

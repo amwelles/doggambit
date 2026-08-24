@@ -7,7 +7,7 @@ title: Dog training
 
 ## Offerings
 
-I offer a few different types of lessons. If any of these interest you, please [book a consultation](https://app.scritches.io/book/doggambit) and we'll get you and your dog started on a training plan.
+I offer a few different types of lessons. If any of these interest you, please [book a consultation](https://book.doggambit.com) and we'll get you and your dog started on a training plan.
 
 ### Personalized session
 
